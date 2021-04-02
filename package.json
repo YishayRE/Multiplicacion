@@ -1,0 +1,18 @@
+{
+  "name": "bases",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar",
+  "main": "Argumentos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node Argumentos --base=3"
+  },
+  "author": "Miguel R",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "colors.js": "^1.2.4",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {}
+}
